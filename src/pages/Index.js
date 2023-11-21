@@ -5,7 +5,7 @@ const Index = () => {
         color: 'white',
         fontWeight: 'bold',
         fontSize:'large',
-        padding: "15px",
+        padding: "10px",
         margin:'0px'
     };
     const th = {
@@ -41,7 +41,7 @@ const Index = () => {
                         <p style={conference}> 2023-2024 SAISON STATS</p>                    
                     </div>
                     <div>
-                        <table class="table table-striped table-responsive projects">
+                        <table className="table table-striped table-responsive projects">
                             <thead>
                                 <tr>
                                     <th style={th}>CLASSEMENT</th>

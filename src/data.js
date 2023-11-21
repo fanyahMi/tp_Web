@@ -12,7 +12,7 @@ export const Joueur = [
         eff: 'john@example.com'
       },
       {
-        id: 1,
+        id: 2,
         nom: 'John Doe',
         equipe: 30,
         mj: 'john@example.com',
